@@ -1,2 +1,2 @@
 # ae-theme-import-files
-XML and WIE files for import into AE themes
+XML import files for IDX or no IDX, widget import (.wie) files, and Soliloquy JSON import files for import into Agent Evoution Equity Framework themes
